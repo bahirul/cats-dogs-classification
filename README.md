@@ -22,6 +22,18 @@ In this project, you will:
 - [Contributing](#contributing)
 - [License](#license)
 
+## Project Directory Structure
+
+```
+├── models
+├── notebooks
+└── src
+```
+
+- `models`: This folder contains the trained model and its weights.
+- `notebooks`: This folder contains the Jupyter notebooks used for data analysis, model training, and evaluation.
+- `src`: This folder contains the source code for the project.
+
 ## Getting Started
 
 To get started with this project, follow these steps:
