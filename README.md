@@ -25,12 +25,12 @@ In this project, you will:
 ## Project Directory Structure
 
 ```
-├── models
+├── datasets
 ├── notebooks
 └── src
 ```
 
-- `models`: This folder contains the trained model and its weights.
+- `datasets`: This folder contains  train and test datasets.
 - `notebooks`: This folder contains the Jupyter notebooks used for data analysis, model training, and evaluation.
 - `src`: This folder contains the source code for the project.
 

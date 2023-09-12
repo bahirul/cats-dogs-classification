@@ -1,1 +1,1 @@
-print("main script")
+print("Main script running...")
